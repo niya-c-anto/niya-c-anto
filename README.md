@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Niya C Anto
 
-🎓 Postgraduate in Computer Science, specializing in Artificial Intelligence  
-💻 Passionate about building intelligent apps with AI + Full Stack technologies  
-🌍 Based in India | Open to remote roles in Data Science, AI, or Software Dev
+AI/ML Engineer | AI Trainer | Applied ML & Deployment  
+MSc Computer Science (Artificial Intelligence)
+
+I work on real-world AI projects involving machine learning, NLP, dashboards, and model deployment.
+Currently transitioning from AI training into hands-on AI/ML development and applied research.
+
+🔹 Interests: Machine Learning, NLP, LLMs, AI Education, Deployment  
+🔹 Tools: Python, scikit-learn, TensorFlow, Flask, SQL  
 
 ---
 
